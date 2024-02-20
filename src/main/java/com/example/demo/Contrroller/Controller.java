@@ -1,4 +1,4 @@
-package com.example.demo.Config.Contrroller;
+package com.example.demo.Contrroller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
